@@ -1,2 +1,9 @@
-# mortal-kombat-2021
-Mortal Kombat (2021): Landing page
+# Mortal Kombat 2021
+## Landing page
+### Project created [@rosoporto](https://github.com/rosoporto)
+### Technologies:
+* HTML
+* CSS
+* Normalize
+* jQuery
+* Fancybox (jQuery)
